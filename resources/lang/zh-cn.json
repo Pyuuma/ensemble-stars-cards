@@ -1,0 +1,33 @@
+{
+  "EnsembleStarsCards": "EnsembleStarsCards",
+  "Login": "登录",
+  "Register": "注册",
+  "Logout": "注销",
+  "Reset Password":"密码重置",
+
+  "Dashboard": "仪表盘",
+  "You are logged in!": "您已登录！",
+  
+  "E-Mail Address":"邮箱地址",
+  "Password":"密码",
+  "Remember Me":"记住我",
+  "Forgot Your Password?":"忘记密码？",
+  
+  "UserName":"用户名",
+  "Confirm Password":"确认密码",
+  
+  "Send Password Reset Link":"发送密码重置链接",
+  
+  "Calculate":"计算",
+  "Score":"分数",
+  "Calculate Score":"分数计算",
+  "This Calculation Has No Answers":"分数计算失败，没有可用解",
+  "Lesson":"课程",
+  "Times":"次数",
+  "Calculate Success!":"分数计算成功，请查看计算结果",
+  "8AP Lesson(Skip)":"8AP课程（使用skip跳过）",
+  "16AP Lesson(Skip)":"16AP课程（使用skip跳过）",
+  "8AP Lesson(Max)":"8AP课程（特训卡最大特训得分）",
+  "16AP Lesson(Max)":"16AP课程（特训卡最大特训得分）",
+  "8AP Lesson(Perfect)":"8AP课程（完美达成）"
+}

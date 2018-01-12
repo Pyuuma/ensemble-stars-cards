@@ -14,3 +14,10 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/utility/calculate/{target}', 'UtilityController@scoreCalculate');
+Route::view('/utility/calculate', 'utility.score');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
